@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/build-dev/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/build-dev/AndroidStudioProjects/TestAppForDataCollection/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_214eeb191e89a5b776e7c98a58164e2b5584201b.jar" />
+    </item>
+    <item
+        jar="/home/build-dev/AndroidStudioProjects/TestAppForDataCollection/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/build-dev/AndroidStudioProjects/TestAppForDataCollection/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_53ab6a8bb08151047fcf09c2637eb78f02a71a14.jar" />
+    </item>
+    <item
+        jar="/home/build-dev/AndroidStudioProjects/TestAppForDataCollection/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/build-dev/AndroidStudioProjects/TestAppForDataCollection/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_35592dc8783c785a0c2c6b7f677aa69374bae3e4.jar" />
+    </item>
+    <item
+        jar="/home/build-dev/AndroidStudioProjects/TestAppForDataCollection/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/build-dev/AndroidStudioProjects/TestAppForDataCollection/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_f2937fcff8e372780b95e5d9429a37b8b35ff8ac.jar" />
+    </item>
+    <item
+        jar="/home/build-dev/AndroidStudioProjects/TestAppForDataCollection/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/build-dev/AndroidStudioProjects/TestAppForDataCollection/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_7d519db95098b25bfb6d14b9a67cf40f438c525f.jar" />
+    </item>
+    <item
+        jar="/home/build-dev/AndroidStudioProjects/TestAppForDataCollection/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/build-dev/AndroidStudioProjects/TestAppForDataCollection/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_9495e05f50e4aa1789f70498e3a2c8c9e6ed8e47.jar" />
+    </item>
+
+</items>

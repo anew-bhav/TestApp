@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestAppForDataCollection</string>
+    <string name="make_choice">Make Choice</string>
+    <string name="ped_button">Testing As Pedestrian</string>
+    <string name="car_button">Testing Inside Car</string>
+    <string name="pending">Somethings Needed To Be Fixed</string>
+</resources>
